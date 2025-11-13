@@ -1,0 +1,10 @@
+{
+    "id": "hotkey-tag-navigator",
+    "name": "Hotkey Tag Navigator",
+    "version": "1.0.0",
+    "minAppVersion": "1.4.0",
+    "description": "Navigate and manipulate nested user-defined tags with advanced selection",
+    "author": "GreyHatDoc",
+    "authorUrl": "https://yourwebsite.com",
+    "isDesktopOnly": false
+}

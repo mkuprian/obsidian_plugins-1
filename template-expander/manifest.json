@@ -1,0 +1,9 @@
+{
+    "id": "snippet-expander",
+    "name": "Snippet Expander",
+    "version": "1.0.0",
+    "minAppVersion": "1.4.0",
+    "description": "Auto-expand text snippets with custom triggers",
+    "author": "Your Name",
+    "isDesktopOnly": false
+}
